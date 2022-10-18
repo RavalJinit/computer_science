@@ -415,3 +415,4 @@ The functions of the Network layer are :  
 
 1.  **Routing:** The network layer protocols determine which route is suitable from source to destination. This function of the network layer is known as routing.
 2.  **Logical Addressing:** In order to identify each device on internetwork uniquely, the network layer defines an addressing scheme. The sender & receiver’s IP addresses are placed in the header by the network layer. Such an address distinguishes each device uniquely and universally.
+
